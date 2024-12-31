@@ -1,6 +1,6 @@
 vendor
 node_modules
-public
-public/vendor
+# public
+# public/vendor
 .env
 composer.lock
